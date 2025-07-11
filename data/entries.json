@@ -1,0 +1,20 @@
+{
+  "2025-07-11": [
+    {
+      "food": "chicken",
+      "calories": 100.0,
+      "protein": 25.0,
+      "carbs": 5.0,
+      "fats": 1.0,
+      "sodium": 30.0
+    },
+    {
+      "food": "",
+      "calories": 150.0,
+      "protein": 20.0,
+      "carbs": 3.0,
+      "fats": 1.0,
+      "sodium": 400.0
+    }
+  ]
+}
